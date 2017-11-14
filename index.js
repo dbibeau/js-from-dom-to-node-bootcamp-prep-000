@@ -1,2 +1,2 @@
-cd// write your code below!
+// write your code below!
 console.log("Hello, World!")
